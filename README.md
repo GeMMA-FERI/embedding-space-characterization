@@ -8,6 +8,14 @@ This repository contains the code and data from the paper "Geometric Characteriz
 
 To be published.
 
+### Code
+
+To be published.
+
+### Data
+
+The data is stored in the `./data` directory. It includes the statistical data and results from the experiments conducted in the study.
+
 ### Citation
 
 To be published.

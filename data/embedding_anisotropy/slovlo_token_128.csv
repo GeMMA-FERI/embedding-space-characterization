@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+slovlo_token_128,rokn/slovlo-v1,token,token_window_128_overlap_16,689322,100000,42,0.670672595500946,0.03705380792913173,0.1304998268280101,0.2007953072670334

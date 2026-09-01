@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+gemma_token_128_0,google/embeddinggemma-300m,token,token_window_128,619968,100000,42,0.37674346566200256,0.042562989699480816,0.14053350692189037,0.20935131029941165

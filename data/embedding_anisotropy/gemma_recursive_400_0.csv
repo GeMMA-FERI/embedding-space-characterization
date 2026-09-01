@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+gemma_recursive_400_0,google/embeddinggemma-300m,split,split,778317,100000,42,0.3601829707622528,0.0390311893833605,0.1430415520283671,0.2098778985150487

@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+qwen3_recursive_400,Qwen/Qwen3-Embedding-0.6B,split,split,804092,100000,42,0.3483121991157532,0.03548131844724515,0.12023310422772836,0.18449779317475543

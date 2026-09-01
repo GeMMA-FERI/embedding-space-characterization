@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,drop_threshold,mean_cosine_similarity,mean_pairwise_cosine_similarity,cosine_volatility,semantic_drop_rate,num_articles,num_transitions,num_pairwise_comparisons
+m3_token_32,BAAI/bge-m3,token,token_window_32,0.3717605769634247,0.4973892867565155,0.43420249223709106,0.08376597291883374,0.06191447377204895,90307,2256193,100000

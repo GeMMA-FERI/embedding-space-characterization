@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+gemma_paragraph,google/embeddinggemma-300m,paragraph,paragraph,750276,100000,42,0.344539076089859,0.06440161372137546,0.16747159874034448,0.2313156862789361

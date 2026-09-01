@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,drop_threshold,mean_cosine_similarity,mean_pairwise_cosine_similarity,cosine_volatility,semantic_drop_rate,num_articles,num_transitions,num_pairwise_comparisons
+m3_sentence,BAAI/bge-m3,sentence,sentence,0.36277127265930176,0.4700755178928375,0.41679808497428894,0.09881181144473403,0.1368134766817093,90202,2551481,100000

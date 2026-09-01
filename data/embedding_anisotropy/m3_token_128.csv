@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+m3_token_128,BAAI/bge-m3,token,token_window_128_overlap_16,689322,100000,42,0.38384464383125305,0.030306194981765597,0.11034214659576129,0.16973901756082724

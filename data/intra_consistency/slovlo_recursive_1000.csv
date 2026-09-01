@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,drop_threshold,mean_cosine_similarity,mean_pairwise_cosine_similarity,cosine_volatility,semantic_drop_rate,num_articles,num_transitions,num_pairwise_comparisons
+slovlo_recursive_1000,rokn/slovlo-v1,split,split,0.6607019305229187,0.7900673151016235,0.7593493461608887,0.06487126709226687,0.03407919034361839,62989,228820,100000

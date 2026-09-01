@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+m3_sentence,BAAI/bge-m3,sentence,sentence,2641788,100000,42,0.3623904585838318,0.04016065850747079,0.11914689003132335,0.18049893636819678

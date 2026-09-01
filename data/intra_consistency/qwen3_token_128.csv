@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,drop_threshold,mean_cosine_similarity,mean_pairwise_cosine_similarity,cosine_volatility,semantic_drop_rate,num_articles,num_transitions,num_pairwise_comparisons
+qwen3_token_128,Qwen/Qwen3-Embedding-0.6B,token,token_window_128_overlap_16,0.3707498610019684,0.5900442600250244,0.49447983503341675,0.09281675042949224,0.011413737200200558,90191,599015,100000

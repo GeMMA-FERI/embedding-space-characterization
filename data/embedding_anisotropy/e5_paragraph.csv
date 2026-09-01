@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+e5_paragraph,intfloat/multilingual-e5-large,paragraph,paragraph,750276,100000,42,0.7770058512687683,0.044995267140363615,0.11559477396135122,0.1668113314439257

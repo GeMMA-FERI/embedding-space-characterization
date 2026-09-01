@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,drop_threshold,mean_cosine_similarity,mean_pairwise_cosine_similarity,cosine_volatility,semantic_drop_rate,num_articles,num_transitions,num_pairwise_comparisons
+gemma_token_256_192,google/embeddinggemma-300m,token,token_window_256_overlap_192,0.39882710576057434,0.890082836151123,0.625531792640686,0.05027878813105079,0.0,73273,839881,100000

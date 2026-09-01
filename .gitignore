@@ -6,3 +6,6 @@
 *.log
 *.out
 *.synctex.gz
+
+*.egg-info
+__pycache__

@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,drop_threshold,mean_cosine_similarity,mean_pairwise_cosine_similarity,cosine_volatility,semantic_drop_rate,num_articles,num_transitions,num_pairwise_comparisons
+slovlo_token_128,rokn/slovlo-v1,token,token_window_128_overlap_16,0.670613706111908,0.8039096593856812,0.7504140734672546,0.048335739655354835,0.003943140152841806,90191,599015,100000

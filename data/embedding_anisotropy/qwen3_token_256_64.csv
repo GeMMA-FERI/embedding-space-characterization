@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+qwen3_token_256_64,Qwen/Qwen3-Embedding-0.6B,token,token_window_256_overlap_64,397002,100000,42,0.3784106373786926,0.039638151489890895,0.1309631866242722,0.1982440635242911

@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,embedding_count,pair_sample_size,random_seed,average_pairwise_cosine,pc1_variance_ratio,pc5_variance_ratio,pc10_variance_ratio
+e5_token_256_64,intfloat/multilingual-e5-large,token,token_window_256_overlap_64,397002,100000,42,0.8078135251998901,0.0347976413925799,0.1146243908120925,0.1734563260607996

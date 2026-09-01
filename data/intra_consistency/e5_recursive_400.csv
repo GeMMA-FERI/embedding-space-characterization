@@ -1,0 +1,2 @@
+embedding_run_id,model_id,chunking_method,chunking_strategy,drop_threshold,mean_cosine_similarity,mean_pairwise_cosine_similarity,cosine_volatility,semantic_drop_rate,num_articles,num_transitions,num_pairwise_comparisons
+e5_recursive_400,intfloat/multilingual-e5-large,split,split,0.7818846106529236,0.8493303060531616,0.8229798674583435,0.03811117212978505,0.04833388328552246,90307,713785,100000
