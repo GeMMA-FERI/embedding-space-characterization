@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "embedding-geometry-research"
+version = "0.1.0"
+description = "Geometric characterization experiments for text embedding spaces."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.8",
+    "mteb>=1.36",
+    "numpy>=1.26",
+    "scikit-learn>=1.4",
+    "semora>=0.1.0",
+    "torch>=2.2",
+    "tqdm>=4.66",
+    "transformers>=4.41",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["embedding_geometry*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

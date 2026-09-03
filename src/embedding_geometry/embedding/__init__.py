@@ -1,0 +1,1 @@
+"""Scripts for processing newspapers and storing embeddings in a database."""

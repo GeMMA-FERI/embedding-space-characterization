@@ -1,0 +1,4 @@
+python -m embedding_geometry.summarize.summarize_anisotropy
+python -m embedding_geometry.summarize.summarize_inter_separability
+python -m embedding_geometry.summarize.summarize_intra_consistency
+python -m embedding_geometry.summarize.summarize_representation_degradation
